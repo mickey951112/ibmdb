@@ -335,40 +335,6 @@ If you intend to install the clidriver manually, Following are the details of th
 You can refer to [ODBC and CLI Driver installation](http://www-01.ibm.com/support/docview.wss?uid=swg21418043) for details on how to install the driver manually.
 
 
-<a name='downloads'></a>
-## Downloads
-
-Use following pypi web location for downloading source code and binaries
-**ibm_db**: https://pypi.python.org/pypi/ibm_db .
-You can also get the source code by cloning the ibm_db github repository as :
-```
-git clone git@github.com:ibmdb/python-ibmdb.git
-```
-
-<a name='latest-updates'></a>
-## Latest Updates
-
-### *Updated ibm_db*
-  Mar 2, 2022: A new release 3.1.1 of ibm_db and ibm_db_dbi available.
-
-
-<a name='support'></a>
-## Support & feedback
-**Your feedback is very much appreciated and expected through project ibm-db:**
-  * ibm-db issues reports: **https://github.com/ibmdb/python-ibmdb/issues**
-  * ibm_db discuss: **http://groups.google.com/group/ibm_db**
-
-
-<a name='contributing-to-the-ibm_db-python-project'></a>
-## Contributing to the ibm_db python project
-
-See [CONTRIBUTING](https://github.com/ibmdb/python-ibmdb/blob/master/contributing/CONTRIBUTING.md)
-
-```
-The developer sign-off should include the reference to the DCO in remarks(example below):
-DCO 1.1 Signed-off-by: Random J Developer <random@developer.org>
-```
-
 <a name='KnownIssues'></a>
 ## Some common issues
 
